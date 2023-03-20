@@ -1,0 +1,12 @@
+{
+  "name": "estrutura-de-dados-pilhas",
+  "version": "1.0.0",
+  "description": "Conteudo de estudo sobre estrutura de dados",
+  "main": "StackArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "type": "module"
+}
